@@ -1,0 +1,1 @@
+# teckie-odoo.sh
