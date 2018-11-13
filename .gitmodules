@@ -10,3 +10,6 @@
 	path = l10n_gt_extra
 	url = git@github.com:rocketgithub/l10n_gt_extra
 	branch = 11.0
+[submodule "tecki"]
+	path = tecki
+	url = git@github.com:rocketgithub/tecki.git
