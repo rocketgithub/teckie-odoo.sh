@@ -1,14 +1,14 @@
 [submodule "conciliacion_bancaria"]
 	path = conciliacion_bancaria
-	url = git@github.com:rocketgithub/conciliacion_bancaria
+	url = https://github.com/rocketgithub/conciliacion_bancaria
 	branch = 11.0
 [submodule "bolson"]
 	path = bolson
-	url = git@github.com:rocketgithub/bolson
+	url = https://github.com/rocketgithub/bolson
 	branch = 11.0
 [submodule "l10n_gt_extra"]
 	path = l10n_gt_extra
-	url = git@github.com:rocketgithub/l10n_gt_extra
+	url = https://github.com/rocketgithub/l10n_gt_extra
 	branch = 11.0
 [submodule "tecki"]
 	path = tecki
