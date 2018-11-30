@@ -13,3 +13,7 @@
 [submodule "tecki"]
 	path = tecki
 	url = git@github.com:rocketgithub/tecki.git
+[submodule "gface_infile"]
+	path = gface_infile
+	url = git@github.com:rocketgithub/gface_infile.git
+	branch = 11.0
